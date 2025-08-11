@@ -1,1 +1,1 @@
-I have built two types of scrapers one that scrapes data from a webpage using libraires like Beautiful Soup and requests in python and other which directly uses API calls to do so , it helped me in understanding the advantages and disadvantages of both the methods.
+NLP model takes in articles from finnhub api and feeds them to a classifier model to predict to which class they belong to whether 0 or 1 which as of now has been assigned randomly to all variables
